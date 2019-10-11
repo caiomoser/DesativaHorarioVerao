@@ -1,0 +1,6 @@
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\bin\Debug\DesativaHorarioVerao.exe.config
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\bin\Debug\DesativaHorarioVerao.exe
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\bin\Debug\DesativaHorarioVerao.pdb
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\obj\Debug\DesativaHorarioVerao.csprojAssemblyReference.cache
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\obj\Debug\DesativaHorarioVerao.exe
+C:\Users\caio.moser\source\repos\DesativaHorarioVerao\DesativaHorarioVerao\obj\Debug\DesativaHorarioVerao.pdb
